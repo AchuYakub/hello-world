@@ -1,2 +1,4 @@
 # hello-world
-just something
+
+
+I'm just learning to work with Github.
